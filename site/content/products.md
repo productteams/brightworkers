@@ -1,11 +1,11 @@
 ---
-title: Our Coffee
+title: Our Services
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  R831 is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
@@ -13,14 +13,14 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
+        We paint green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
+        We stain a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
@@ -40,7 +40,7 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    R831 is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
@@ -63,21 +63,19 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      The first time I tried R831’s services, I couldn’t even believe that my painting crew was more punctual that I was.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      R831 turned a house in need of repair into a beautiful masterpiece. I love their
+      stance on using the most-eco friendly products and leaving my property immaculate. A job well done.
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to make beautiful structures a part of your life. Choose one of our
+    annual subscription plans to receive great painters at your doorstep whenever you need a touch-up. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for the apartment owners who likes to have their properties looking the best all year long.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
