@@ -5,65 +5,44 @@ page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  R831 is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Restoration831 is where those who love wood home go to keep their homes looking beautiful all year long.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We paint green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
+        We paintwith great care and with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        We stain a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        We stain a small.
     - image: /img/illustrations/tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
+        Love a beautiful wood table.
         Email us or call the store for details.
     - image: /img/illustrations/meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        We believe that good wood should be kept beautiful.
+  heading: Our Services
   description: >
-    R831 is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    R831 is the local solution to restore wood and structures to their prior beauty.
 main:
-  heading: Great coffee with no compromises
+  heading: Restaurant Tables Made Beautiful 
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We take great pride in using our skills to make your tables look beautiful. Whether you want the reflecting shimmer of Ulta Gloss or the Matte finish so sought after by todays modern restaurants, we love making the tables something that last long and hold their beauty even through the rigors of heavy traffic use..
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: A close-up succulent tables
     image: /img/products/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: A close up of matte tables
     image: /img/products/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: painted house
     image: /img/products/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried R831’s services, I couldn’t even believe that my painting crew was more punctual that I was.
+      The first time I tried R831’s services, I couldn’t even believe that their restoration crew was more punctual that I was.
   - author: Philipp Trommler
     quote: >-
       R831 turned a house in need of repair into a beautiful masterpiece. I love their
@@ -73,28 +52,28 @@ pricing:
   heading: Monthly subscriptions
   description: >-
     We make it easy to make beautiful structures a part of your life. Choose one of our
-    annual subscription plans to receive great painters at your doorstep whenever you need a touch-up. Contact us about more details and payment info.
+    annual subscription plans to receive great restorers at your doorstep whenever you need a touch-up. Contact us about more details and payment info.
   plans:
     - description: Perfect for the apartment owners who likes to have their properties looking the best all year long.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - visit by restorer for touch-up once per month
+        - Exterior or Interior"
+        - One or two coatings"
       plan: Small
       price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: 'Great for small property owners, home-owners with large houses/ multiple dwellings'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - visit by restorer once per month
+        - Exterior & Interior
+        - Up to 4 different coatings 
       plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: '100'
+    - description: Great for Apartment Management Companies with lots of units 
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Visit by restorer Whenever you need
+        - Exterior & Interior
+        - Unlimited coatings
+      plan: Premiere 
+      price: '200'
 ---
 
