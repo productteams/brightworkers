@@ -1,12 +1,12 @@
 ---
-title: "Just in: small batch of Jamaica Blue Mountain in store next week"
+title: "Just in: small batch of Limited Edition Wood Oil Wax"
 date: 2017-01-04T15:04:10.000Z
-description: We’re proud to announce that we’ll be offering a small batch of Jamaica Blue Mountain coffee beans in our store next week.
+description: We’re proud to announce that we’ll be offering a small batch of Wood Oil Wax to our existing customer in our store next week.
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+We expect the shipment of a limited quantity of WOW - Wood Oil Wax in next Monday. We’ll be offering the product from Tuesday, but quantities are limited, so be quick.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Wood Oil Was is the highest grade of stain possible and the only stain that can be used around fishponds.
 
 ## A little history
 
