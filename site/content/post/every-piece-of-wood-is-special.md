@@ -1,5 +1,5 @@
 ---
-title: A beginners’ guide to selecting a stain
+title: Every piece of wood is Special
 date: 2017-01-04T15:04:10.000Z
 description: >-
   Staining wood depends upon the wood. Every piece of wood has a history, and the first step is getting the wood back to it's virgin state. This is often not easy for the uninitiated and often requires a lot of hard work and elbow grease.
