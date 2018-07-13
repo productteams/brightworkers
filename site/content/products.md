@@ -1,5 +1,5 @@
 ---
-title: Our Services
+title: Painting, Staining, Insulating
 type: products
 page: /products.html
 image: /img/home/r831-jumbotron-9.jpg
