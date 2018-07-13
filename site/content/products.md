@@ -2,7 +2,7 @@
 title: Our Services
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
+image: /img/home/r831-jumbotron-9.jpg
 heading: What we offer
 description: >-
   Restoration831 is where those who love wood home go to keep their homes looking beautiful all year long.
