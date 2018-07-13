@@ -35,15 +35,15 @@ main:
     image: /img/about/Eco-Wood-Stain-Colour-Chart-2-1024x791.jpg
   image2:
     alt: A close up of matte tables
-    image: /img/products/products-grid2.jpg
+    image: /img/about/IMG_6557.JPG
   image3:
     alt: painted house
-    image: /img/products/products-grid1.jpg
+    image: /img/about/IMG_6557.JPG
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Samantha Kauris
     quote: >-
       The first time I tried R831’s services, I couldn’t even believe that their restoration crew was more punctual that I was.
-  - author: Philipp Trommler
+  - author: Jim Troller
     quote: >-
       R831 turned a house in need of repair into a beautiful masterpiece. I love their
       stance on using the most-eco friendly products and leaving my property immaculate. A job well done.
