@@ -32,7 +32,7 @@ main:
     We take great pride in using our skills to make your tables look beautiful. Whether you want the reflecting shimmer of Ulta Gloss or the Matte finish so sought after by todays modern restaurants, we love making the tables something that last long and hold their beauty even through the rigors of heavy traffic use..
   image1:
     alt: A close-up succulent tables
-    image: /img/products/products-grid3.jpg
+    image: /img/about/Eco-Wood-Stain-Colour-Chart-2-1024x791.jpg
   image2:
     alt: A close up of matte tables
     image: /img/products/products-grid2.jpg
