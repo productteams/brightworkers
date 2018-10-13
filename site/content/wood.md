@@ -1,5 +1,5 @@
 +++
-title = "Wood"
-type = "wood"
-page="/wood.html"
+title = "Boats"
+type = "boats"
+page="/boats.html"
 +++
