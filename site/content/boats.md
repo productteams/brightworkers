@@ -1,1 +1,1 @@
-+++ title = "Boats" type = "boats" page="/boats.html" +++
++++ title = "Boats" type = "values" page="/boats.html" +++
