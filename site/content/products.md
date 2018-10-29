@@ -1,5 +1,5 @@
 ---
-title: BrightWork, Boat Repair, Wood Beautified
+title: Fiberglass Repair, Zinc replacement , 12V Trouble-shooting
 type: products
 page: /products.html
 image: /img/home/r831-jumbotron-9.jpg
