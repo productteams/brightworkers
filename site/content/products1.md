@@ -29,8 +29,8 @@ main:
   description: >
     We take great pride in using our skills to make boats look beautiful. Whether you want the reflecting shimmer of Ulta Gloss or the Matte finish so sought after by todays modern restaurants, we love making the tables something that last long and hold their beauty even through the rigors of heavy traffic use..
   image1:
-    alt: A close-up succulent tables
-    image: /img/about/Eco-Wood-Stain-Colour-Chart-2-1024x791.jpg
+    alt: A teak window replacement
+    image: /img/products/teak.window.replacement.jpg
   image2:
     alt: A close up of matte tables
     image: /img/about/IMG_6557.JPG
