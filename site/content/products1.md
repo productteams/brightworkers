@@ -1,24 +1,22 @@
 ---
-title: BrightWork, Boat Repair, Wood Beautified
+title: Bright Products
 type: products
 page: /products.html
 image: /img/home/r831-jumbotron-9.jpg
 heading: What we offer
 description: >-
-  We help your pride and joy be beautiful all year long.
+  Stuff that makes boats more beautiful
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        In Slip - We do BrightWork with great care and use environmentally responsible product and
-        support local communities. Check our post or contact us directly for current
-        availability.
+        Nautical Serving Trays - Beautiful wood and stainless steel turned into beautiful servings trays, Charcuterie Boards, and Bread Boards to make boating life even better. 
     - image: /img/illustrations/coffee-gear.svg
       text: >
         In Harbor - we do bottom-jobs efficiently and economically. We are experts at color-matching and use top of the line paint systems to keep your boat fast and beautiful.
     - image: /img/illustrations/tutorials.svg
       text: >
-        In Place - we refinish and restore wood to its maximum beauty. We Love a beautiful wood table.
+        Boat Name Plates - We carve boat names into Beautiful Woods and preserve them so they stand out amongst the crowd.
         Email us or call the store for details.
     - image: /img/illustrations/meeting-space.svg
       text: >
