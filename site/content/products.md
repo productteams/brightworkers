@@ -1,11 +1,11 @@
 ---
-title: Fiberglass Repair, Zinc replacement , 12V Trouble-shooting
+title: Yacht detailing, gelcoat repair, etc
 type: products
 page: /products.html
 image: /img/home/r831-jumbotron-9.jpg
 heading: What we offer
 description: >-
-  We help your pride and joy be beautiful all year long.
+  Everything to keep your boat beautiful all year long.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
@@ -42,10 +42,10 @@ main:
 testimonials:
   - author: Samantha Kauris
     quote: >-
-      The first time I tried R831’s services, I couldn’t even believe that their restoration crew was more punctual that I was. They were under budget and delivered on time.
+      The first time I tried Brightworkers services, I was impressed. My boat had never looked this good. Now after a year, they have finally made my boat water-tight and there is not a hint of mildew when I come to use the boat on the weekend.
   - author: Jim Troller
     quote: >-
-      R831 turned a wood table repair in need of repair into a beautiful masterpiece. I love their
+      Brightworkers turned a wood table repair in need of repair into a beautiful masterpiece. I love their
       stance on using the most-eco friendly products and leaving my property immaculate. A job well done.
 full_image: /img/products/products-full-width.jpg
 pricing:
