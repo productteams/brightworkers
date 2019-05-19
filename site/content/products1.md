@@ -1,11 +1,11 @@
 ---
-title: Bright Products
+title: Products
 type: products
 page: /products.html
 image: /img/home/r831-jumbotron-9.jpg
 heading: What we offer
 description: >-
-  Stuff that makes boats more beautiful
+  One of the joys ( not so much) of restoring boats is often once cannot work when the weather does not cooperate. During these periods we continue to hone our skills by making beautiful hand-made items that makes boats more beautiful
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
@@ -13,7 +13,7 @@ intro:
         Nautical Serving Trays - Beautiful wood and stainless steel turned into beautiful servings trays, Charcuterie Boards, and Bread Boards to make boating life even better. 
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        In Harbor - we do bottom-jobs efficiently and economically. We are experts at color-matching and use top of the line paint systems to keep your boat fast and beautiful.
+        Yacht Name Plates - nothing says more about a boat that its name and how its own cares for it. We use the latest CNC technology to carve boat names out of the finest wood available, and then finish them to stay beautiful longer.
     - image: /img/illustrations/tutorials.svg
       text: >
         Boat Name Plates - We carve boat names into Beautiful Woods and preserve them so they stand out amongst the crowd.
@@ -23,7 +23,7 @@ intro:
         We believe that good wood should be kept beautiful.
   heading: Our Services
   description: >
-    R831 is the local solution to restore wood and structures to their prior beauty.
+    Brightworkers products are shipped worldwide.
 main:
   heading: Maximum Beauty of Wood
   description: >
@@ -40,11 +40,11 @@ main:
 testimonials:
   - author: Samantha Kauris
     quote: >-
-      The first time I tried R831’s services, I couldn’t even believe that their restoration crew was more punctual that I was. They were under budget and delivered on time.
+      I just bought the Brightworkers Charcuterie Board and it came gift wrapped beautifully. I couldn’t even believe how beautiful the wood and the craftmanship was. .
   - author: Jim Troller
     quote: >-
-      R831 turned a wood table repair in need of repair into a beautiful masterpiece. I love their
-      stance on using the most-eco friendly products and leaving my property immaculate. A job well done.
+      Love my new yacht plate. 
+      
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: MAXIMUM BEAUTY Monthly subscriptions
