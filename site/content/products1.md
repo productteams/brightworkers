@@ -1,14 +1,14 @@
 ---
 title: Products
 type: products
-page: /products.html
+page: /products1.html
 image: /img/home/r831-jumbotron-9.jpg
 heading: What we offer
 description: >-
   One of the joys ( not so much) of restoring boats is often once cannot work when the weather does not cooperate. During these periods we continue to hone our skills by making beautiful hand-made items that makes boats more beautiful
 intro:
   blurbs:
-    - image: /img/illustrations/coffee.svg
+    - image: /img/20101-091 - 1.png
       text: >
         Nautical Serving Trays - Beautiful wood and stainless steel turned into beautiful servings trays, Charcuterie Boards, and Bread Boards to make boating life even better. 
     - image: /img/illustrations/coffee-gear.svg
@@ -21,13 +21,13 @@ intro:
     - image: /img/illustrations/meeting-space.svg
       text: >
         We believe that good wood should be kept beautiful.
-  heading: Our Services
+  heading: Our Products
   description: >
     Brightworkers products are shipped worldwide.
 main:
   heading: Maximum Beauty of Wood
   description: >
-    We take great pride in using our skills to make boats look beautiful. Whether you want the reflecting shimmer of Ulta Gloss or the Matte finish so sought after by todays modern restaurants, we love making the tables something that last long and hold their beauty even through the rigors of heavy traffic use..
+    We take great pride in using our skills to make boats look beautiful. We apply those same skills to make a small number of products for our clients, our sustaining members, and boat owners everywhere.
   image1:
     alt: A teak window replacement
     image: /img/products/teak.window.replacement.jpg
