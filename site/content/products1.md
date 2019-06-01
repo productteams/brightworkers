@@ -5,7 +5,7 @@ page: /products1.html
 image: /img/home/r831-jumbotron-9.jpg
 heading: What we offer
 description: >-
-  One of the joys ( not so much) of restoring boats is often once cannot work when the weather does not cooperate. During these periods we continue to hone our skills by making beautiful hand-made items that makes boats more beautiful
+  One of the joys of restoring boats is often once cannot work when the weather does not cooperate. During these periods we continue to hone our skills by making beautiful hand-made items that makes boats more beautiful
 intro:
   blurbs:
     - image: /img/20101-091 - 1.png
@@ -13,7 +13,7 @@ intro:
         Nautical Serving Trays - Beautiful wood and stainless steel turned into beautiful servings trays, Charcuterie Boards, and Bread Boards to make boating life even better. 
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        Yacht Name Plates - nothing says more about a boat that its name and how its own cares for it. We use the latest CNC technology to carve boat names out of the finest wood available, and then finish them to stay beautiful longer.
+        Yacht Name Plates - nothing says more about a boat that its name and how its owner cares for it. We use the latest CNC technology to carve boat names out of the finest wood available, and then finish them to stay beautiful longer.
     - image: /img/illustrations/tutorials.svg
       text: >
         Boat Name Plates - We carve boat names into Beautiful Woods and preserve them so they stand out amongst the crowd.
