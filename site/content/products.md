@@ -6,33 +6,7 @@ image: /img/home/206101 - 1.png
 heading: What we offer
 description: >-
   Everything to keep your boat beautiful all year long.
-pricing:
-heading: MAXIMUM BEAUTY subscriptions
-  description: >-
-    We make it easy to keep your boat beautiful. Choose a
-    subscription plans to keep your boat at Maximum Beauty. We are at your doorstep whenever you need a touch-up. Contact us about more details and payment info.
- plans:
-    - description: Perfect for the boat owners who likes to have their boat looking the best all year long.
-      items:
-        - visit by restorer for touch-up once per month
-        - Exterior or Interior"
-        - One or two visits a month"
-      plan: Small
-      price: '50'
-    - description: 'Great for small boat owners, owners who use their boat a lot'
-      items:
-        - visit by restorer on demand
-        - Exterior & Interior
-        - Up to 4 different visits per month
-      plan: Big
-      price: '100'
-    - description: Great for Boat owner who uses their boat a lot. 
-      items:
-        - Visit by restorer Whenever you need
-        - Exterior & Interior
-        - Unlimited visits
-      plan: Premiere 
-      price: '200'
+
 intro:
   blurbs:
     - image: /img/products/LaXsYKWtQLysZeRs34tEBQ.jpg
