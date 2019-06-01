@@ -19,10 +19,10 @@ intro:
       Boat Tables - We carve boat tables out of Beautiful Woods and preserve them with AWLWOOD brightwork so they stand out amongst the crowd. Every table we do is custom, and we use computerized CNC routers to make them perfect. Usually boat owners have us just do the top of the tables, securing their existing pedestals to the bottom of our tables. 
     - image: /img/20101-082 - 1.png
       text: >
-        Companionway Hatch Covers - We build these to specifications sent in by our customers. We do these for our sustaining members at $30 per hour, and for regular customers at $50 per hour. All our quotes are not-to-exceed prior to starting work . Usually the owner makes a temporary cover and sends us the pieces so we can restore or replace identically. We also accept detailed measurements and photos to allow for the existing covers to be left in place until the new ones are delivered.
+        Companionway Hatch Covers : We build these to specifications sent in by our customers. We do these for our sustaining members at $30 per hour, and for regular customers at $50 per hour. All our quotes are not-to-exceed prior to starting work . Usually the owner makes a temporary cover and sends us the pieces so we can restore or replace identically. We also accept detailed measurements and photos to allow for the existing covers to be left in place until the new ones are delivered.
      - image: /img/20101-082 - 1.png
       text: >
-        Bulkhead Compass Housing - Beautiful Hardwood - usually Teak - Bulkhead compass housings made specifically to your compass add increased functionality and beauty to every boat. We already have templates for all makes and models of Plastimo and Ritchie Navigation Bulkhead compasses to make ordering and installation easier. We also do many other  - just send us your exact dimensions.
+        Bulkhead Compass Housing : Beautiful Hardwood , usually Teak , Bulkhead compass housings made specifically to your compass add increased functionality and beauty to every boat. We already have templates for all makes and models of Plastimo and Ritchie Navigation Bulkhead compasses to make ordering and installation easier. We also do many other based upon exact dimensions provided by our customers.
   heading: Our Products
   description: >
     Brightworkers Products are shipped worldwide.
