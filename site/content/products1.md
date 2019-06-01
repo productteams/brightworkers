@@ -1,7 +1,7 @@
 ---
 title: Products
 type: products
-page: /products1.html
+page: /products.html
 image: /img/20101-164 - 1.png
 heading: What we offer
 description: >-
