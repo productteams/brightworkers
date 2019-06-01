@@ -2,10 +2,10 @@
 title: Products
 type: products
 page: /products1.html
-image: /img/home/r831-jumbotron-9.jpg
+image: /img/20101-164 - 1.png
 heading: What we offer
 description: >-
-  One of the joys of restoring boats is often once cannot work when the weather does not cooperate. During these periods we continue to hone our skills by making beautiful hand-made items that makes boats more beautiful
+  One of the joys of restoring boats is often one cannot work when the weather does not cooperate. During these periods we continue to hone our skills by making beautiful hand-made items that makes boats more beautiful
 intro:
   blurbs:
     - image: /img/20101-091 - 1.png
@@ -14,11 +14,11 @@ intro:
     - image: /img/illustrations/coffee-gear.svg
       text: >
         Yacht Name Plates - nothing says more about a boat that its name and how its owner cares for it. We use the latest CNC technology to carve boat names out of the finest wood available, and then finish them to stay beautiful longer.
-    - image: /img/illustrations/tutorials.svg
+    - image: /img/201010-177 - 1.png
       text: >
         Boat Name Plates - We carve boat names into Beautiful Woods and preserve them so they stand out amongst the crowd.
         Email us or call the store for details.
-    - image: /img/illustrations/meeting-space.svg
+    - image: /img/20101-082 - 1.png
       text: >
         We believe that good wood should be kept beautiful.
   heading: Our Products
