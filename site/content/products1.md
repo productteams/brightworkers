@@ -33,10 +33,10 @@ main:
     image: /img/products/teak.window.replacement.jpg
   image2:
     alt: A close up of matte tables
-    image: /img/about/IMG_6557.JPG
+    image: /img/20101-164 - 1 (1).png
   image3:
     alt: painted house
-    image: /img/about/IMG_6557.JPG
+    image: /img/20101-164 - 1 (2).png
 testimonials:
   - author: Samantha Kauris
     quote: >-
