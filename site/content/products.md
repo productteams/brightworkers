@@ -11,16 +11,15 @@ intro:
   blurbs:
     - image: /img/products/LaXsYKWtQLysZeRs34tEBQ.jpg
       text: >
-        In Slip - We do BrightWork with great care and use environmentally responsible product and
+        ## In Slip ## - We do BrightWork with great care and use environmentally responsible product and
         support local communities. Check our post or contact us directly for current
         availability.
     - image: /img/products/70p%5N%+S%+yHdar3N5Ujw.jpg
       text: >
-        In Harbor - we do bottom-jobs efficiently and economically. We are experts at color-matching and use top of the line paint systems to keep your boat fast and beautiful.
+        ## In Harbor ## - we do bottom-jobs efficiently and economically. We are experts at color-matching and use top of the line paint systems to keep your boat fast, water-tight and beautiful.
     - image: /img/products/KCvHt4TrS86J7HBCtiJaOQ.jpg
       text: >
-        In Place - we refinish and restore wood to its maximum beauty. We Love a beautiful wood table.
-        Email us or call the store for details.
+        ## On Trailer ## - We come to your home, or wherever your boat and trailer are. We do full remote detailing, brightwork, gel coat repair, and provide bottom paint in place. 
     - image: /img/products/h5AuknTwRhKGfNjYUWvVnA.jpg
       text: >
         We believe that good wood should be kept beautiful.
