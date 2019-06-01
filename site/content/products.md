@@ -1,8 +1,8 @@
 ---
-title: Yacht detailing, gelcoat repair, etc
+title: Yacht detailing, gelcoat repair, bottom coats.
 type: products
 page: /products.html
-image: /img/home/r831-jumbotron-9.jpg
+image: /img/home/206101 - 1.png
 heading: What we offer
 description: >-
   Everything to keep your boat beautiful all year long.
