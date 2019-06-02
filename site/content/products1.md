@@ -11,19 +11,7 @@ intro:
   blurbs:
     - image: /img/20101-091 - 1.png
       text: >
-        Nautical Serving Trays - Beautiful live-edge wood and stainless steel or brass fittings are turned into beautiful servings trays, Charcuterie Boards, and Bread Boards to make boating life even better.
-      - image: /img/20101-091 - 1.png
-      text: >
-        Yacht Name Plates - nothing says more abo.
-    - image: /img/201010-177 - 1.png
-      text: >
-      Boat Tables - We carve boat tables edestals to the bottom of our tables. 
-    - image: /img/20101-082 - 1.png
-      text: >
-        Companionway Hatch Covers re delivered.
-     - image: /img/20101-082 - 1.png
-      text: >
-        Bulkhead Compass Housingses to make ordering and installation easier. 
+        Nautical Serving Trays - Beautiful live-edge wood 
   heading: Our Products
   description: >
     Brightworkers Products are shipped worldwide.
