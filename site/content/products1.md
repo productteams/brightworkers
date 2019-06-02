@@ -11,8 +11,8 @@ intro:
   blurbs:
     - image: /img/20101-091 - 1.png
       text: >
-        Nautical Serving Trays - Beautiful live-edge wood and stainless steel/brass fittings are turned into beautiful servings trays, Charcuterie Boards, and Bread Boards to make boating life even better. We customize by doing veneer engraving of boat names and peoples names to further make our trays special. 
-    - image: /img/20101-091 - 1.png
+        Nautical Serving Trays - Beautiful live-edge wood and stainless steel or brass fittings are turned into beautiful servings trays, Charcuterie Boards, and Bread Boards to make boating life even better. We customize by doing veneer engraving of boat names and peoples names to further make our trays special. 
+      - image: /img/20101-091 - 1.png
       text: >
         Yacht Name Plates - nothing says more about a boat that its name and how its owner cares for it. We use the latest CNC/Laser technology to carve boat names out of the finest wood available, and then finish them to stay beautiful longer. We use special sunblocking compounds to make the name plate last and withstand weathering. We guarantee the name plates for 4 years - because we treat the wood, pigments, and brightwork with the latest technology.
     - image: /img/201010-177 - 1.png
@@ -24,7 +24,6 @@ intro:
      - image: /img/20101-082 - 1.png
       text: >
         Bulkhead Compass Housing. Beautiful Hardwood , usually Teak , Bulkhead compass housings made specifically to your compass add increased functionality and beauty to every boat. We already have templates for all makes and models of Plastimo and Ritchie Navigation Bulkhead compasses to make ordering and installation easier. We also do many other based upon exact dimensions provided by our customers.
-        
   heading: Our Products
   description: >
     Brightworkers Products are shipped worldwide.
