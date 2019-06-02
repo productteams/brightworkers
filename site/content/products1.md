@@ -5,7 +5,8 @@ page: /products.html
 image: /img/20101-164 - 1.png
 heading: What we offer
 description: >-
-  One of the joys of restoring boats is often one cannot work when the weather does not cooperate. During these periods we continue to hone our skills by making beautiful hand-made items that makes boats more beautiful
+  One of the joys of restoring boats is often one cannot work when the weather does not cooperate. During these periods we continue to hone our skills by making beautiful hand-made items that makes boats more beautiful.
+  
 intro:
   blurbs:
     - image: /img/20101-091 - 1.png
@@ -22,7 +23,7 @@ intro:
         Companionway Hatch Covers : We build these to specifications sent in by our customers. We do these for our sustaining members at $30 per hour, and for regular customers at $50 per hour. All our quotes are not-to-exceed prior to starting work . Usually the owner makes a temporary cover and sends us the pieces so we can restore or replace identically. We also accept detailed measurements and photos to allow for the existing covers to be left in place until the new ones are delivered.
      - image: /img/20101-082 - 1.png
       text: >
-        Bulkhead Compass Housing : Beautiful Hardwood , usually Teak , Bulkhead compass housings made specifically to your compass add increased functionality and beauty to every boat. We already have templates for all makes and models of Plastimo and Ritchie Navigation Bulkhead compasses to make ordering and installation easier. We also do many other based upon exact dimensions provided by our customers.
+        Bulkhead Compass Housing. Beautiful Hardwood , usually Teak , Bulkhead compass housings made specifically to your compass add increased functionality and beauty to every boat. We already have templates for all makes and models of Plastimo and Ritchie Navigation Bulkhead compasses to make ordering and installation easier. We also do many other based upon exact dimensions provided by our customers.
         
   heading: Our Products
   description: >
