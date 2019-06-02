@@ -11,19 +11,19 @@ intro:
   blurbs:
     - image: /img/20101-091 - 1.png
       text: >
-        Nautical Serving Trays - Beautiful live-edge wood and stainless steel or brass fittings are turned into beautiful servings trays, Charcuterie Boards, and Bread Boards to make boating life even better. We customize by doing veneer engraving of boat names and peoples names to further make our trays special. 
+        Nautical Serving Trays - Beautiful live-edge wood and stainless steel or brass fittings are turned into beautiful servings trays, Charcuterie Boards, and Bread Boards to make boating life even better.
       - image: /img/20101-091 - 1.png
       text: >
-        Yacht Name Plates - nothing says more about a boat that its name and how its owner cares for it. We use the latest CNC/Laser technology to carve boat names out of the finest wood available, and then finish them to stay beautiful longer. We use special sunblocking compounds to make the name plate last and withstand weathering. We guarantee the name plates for 4 years - because we treat the wood, pigments, and brightwork with the latest technology.
+        Yacht Name Plates - nothing says more abo.
     - image: /img/201010-177 - 1.png
       text: >
-      Boat Tables - We carve boat tables out of Beautiful Woods and preserve them with AWLWOOD brightwork so they stand out amongst the crowd. Every table we do is custom, and we use computerized CNC routers to make them perfect. Usually boat owners have us just do the top of the tables, securing their existing pedestals to the bottom of our tables. 
+      Boat Tables - We carve boat tables edestals to the bottom of our tables. 
     - image: /img/20101-082 - 1.png
       text: >
-        Companionway Hatch Covers : We build these to specifications sent in by our customers. We do these for our sustaining members at $30 per hour, and for regular customers at $50 per hour. All our quotes are not-to-exceed prior to starting work . Usually the owner makes a temporary cover and sends us the pieces so we can restore or replace identically. We also accept detailed measurements and photos to allow for the existing covers to be left in place until the new ones are delivered.
+        Companionway Hatch Covers re delivered.
      - image: /img/20101-082 - 1.png
       text: >
-        Bulkhead Compass Housing. Beautiful Hardwood , usually Teak , Bulkhead compass housings made specifically to your compass add increased functionality and beauty to every boat. We already have templates for all makes and models of Plastimo and Ritchie Navigation Bulkhead compasses to make ordering and installation easier. We also do many other based upon exact dimensions provided by our customers.
+        Bulkhead Compass Housingses to make ordering and installation easier. 
   heading: Our Products
   description: >
     Brightworkers Products are shipped worldwide.
