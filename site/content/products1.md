@@ -12,6 +12,15 @@ intro:
     - image: /img/20101-091 - 1.png
       text: >
         Nautical Serving Trays - Beautiful live-edge wood 
+    - image: /img/20101-091 - 1.png
+      text: >
+        Nautical Serving Trays - Beautiful live-edge wood 
+    - image: /img/20101-091 - 1.png
+      text: >
+        Nautical Serving Trays - Beautiful live-edge wood 
+    - image: /img/20101-091 - 1.png
+      text: >
+        Nautical Serving Trays - Beautiful live-edge wood 
   heading: Our Products
   description: >
     Brightworkers Products are shipped worldwide.
