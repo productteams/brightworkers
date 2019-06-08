@@ -1,6 +1,6 @@
 ---
 title: EP 043 - Masking Techniques - the Devil is in the details
-date: 2019-02-04T15:04:10.000Z
+date: 2019-05-04T15:04:10.000Z
 description: >-
   Perfect Masking is the starting point for a beautiful paint job..
 image: /img/blog/20101-043.png
