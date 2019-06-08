@@ -1,25 +1,23 @@
 ---
-title: Yacht detailing, gelcoat repair, bottom coats.
+title: Mobile Yacht detailing, gelcoat repair, bottom coats.
 type: products
 page: /products.html
 image: /img/home/206101 - 1.png
 heading: What we offer
 description: >-
-  Everything to keep your boat beautiful all year long.
+  We come to you. Keeping your boat beautiful wherever it is.
 
 intro:
   blurbs:
     - image: /img/products/LaXsYKWtQLysZeRs34tEBQ.jpg
       text: >
-        ## In Slip ## - We do BrightWork with great care and use environmentally responsible product and
-        support local communities. Check our post or contact us directly for current
-        availability.
+        ## In Slip ## - We do BrightWork with great care. We do gel coat repair in harbor. We detail your boat when you want it done. We only use environmentally responsible products and support local communities. 
     - image: /img/products/70p%5N%+S%+yHdar3N5Ujw.jpg
       text: >
-        ## In Harbor ## - we do bottom-jobs efficiently and economically. We are experts at color-matching and use top of the line paint systems to keep your boat fast, water-tight and beautiful.
+        ## Mobile - We come to your home ## - We do bottom-jobs efficiently and economically on trailer. We are experts at color-matching and use top of the line paint systems to keep your boat fast, water-tight and beautiful.
     - image: /img/products/KCvHt4TrS86J7HBCtiJaOQ.jpg
       text: >
-        ## On Trailer ## - We come to your home, or wherever your boat and trailer are. We do full remote detailing, brightwork, gel coat repair, and provide bottom paint in place. 
+        ## On Trailer ## -  We do full remote detailing, brightwork, gel coat repair, and provide bottom paint in place. We are specialists in doing this work where your boat is, and are experts in leaving the work area cleaner than we found it. 
     - image: /img/products/h5AuknTwRhKGfNjYUWvVnA.jpg
       text: >
         We believe that good wood should be kept beautiful.
@@ -51,8 +49,7 @@ full_image: /img/products/eHVaE%guSciNp0VnN1yELw.jpg
 pricing:
   heading: MAXIMUM BEAUTY subscriptions
   description: >-
-    We make it easy to keep your boat beautiful. Choose a
-    subscription plans to keep your boat at Maximum Beauty. We are at your doorstep whenever you need a touch-up. Contact us about more details and payment info.
+    We make it easy to keep your boat beautiful. Subscription customers get all of our services at 30% off. We are at your doorstep whenever you need a touch-up. Subscribe Today to test us out. Satisfaction Guaranteed.
   plans:
     - description: Perfect for the boat owners who likes to have their boat looking the best all year long.
       items:
