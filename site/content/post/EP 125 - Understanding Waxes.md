@@ -2,7 +2,7 @@
 title: EP 125 - Understanding Waxes
 date: 2019-05-04T15:04:10.000Z
 description: >-
-  Understanding Waxes.md.
+  Understanding Waxes
 image: /img/blog/EP209.jpg
 ---
 
