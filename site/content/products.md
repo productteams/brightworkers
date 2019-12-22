@@ -1,11 +1,11 @@
 ---
-title: Mobile Yacht detailing, gelcoat repair, bottom coats.
+title: Yacht Beautiful
 type: products
 page: /products.html
 image: /img/home/206101 - 1.png
 heading: What we offer
 description: >-
-  We come to you. Keeping your boat beautiful wherever it is.
+  By Day.
 
 intro:
   blurbs:
